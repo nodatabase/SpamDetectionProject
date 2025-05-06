@@ -1,0 +1,4002 @@
+[
+  {
+    "label": "spam",
+    "message": "Urgent: Your Netflix account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Netflix account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on beauty products. Visit https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free iPhone! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $250. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $750. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $750/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on beauty products. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free PlayStation 5. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $100/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free iPhone! http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on beauty products. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your iPhone today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $100/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on beauty products. Visit http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on beauty products. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $750/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $1000/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $100. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $250. Redeem now: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $100. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on electronics. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on subscriptions. Visit http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $750/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on furniture. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on furniture. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $750. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on electronics. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on electronics. Visit https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on electronics. Visit https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Netflix account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on furniture. Visit https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on electronics. Visit https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free iPhone! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $100. Redeem now: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on furniture. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Netflix account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on subscriptions. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free vacation package. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on subscriptions. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on beauty products. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on beauty products. Visit http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on furniture. Visit http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on subscriptions. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your iPhone today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your iPhone today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $750. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on electronics. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $100. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your iPhone today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on beauty products. Visit https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on electronics. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free PlayStation 5. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on beauty products. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $100/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on furniture. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on subscriptions. Visit https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on electronics. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Netflix account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on furniture. Visit https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $750. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free PlayStation 5. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $750. Redeem now: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on furniture. Visit http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $750. Redeem now: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on electronics. Visit https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on beauty products. Visit https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $750. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free iPhone! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on electronics. Visit https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free iPhone! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free vacation package. Click here to claim: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $100. Redeem now: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on furniture. Visit https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $1000/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on subscriptions. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free PlayStation 5. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $250. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on subscriptions. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $100. Redeem now: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free PlayStation 5. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free PlayStation 5. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free vacation package. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $750/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $250. Redeem now: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on subscriptions. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free iPhone! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $100. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your iPhone today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on beauty products. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on subscriptions. Visit http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on furniture. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $750. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your PlayStation 5 today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on beauty products. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $1000/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Netflix account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free PlayStation 5. Click here to claim: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $750/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on furniture. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free vacation package. Click here to claim: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $1000/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free iPhone. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Netflix account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $100/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $100/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $1000/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free vacation package. Click here to claim: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on furniture. Visit http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free iPhone! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $100. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $1000/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free iPhone! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your iPhone today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Netflix account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on subscriptions. Visit https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $750. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your iPhone today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $750/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free PlayStation 5. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free PlayStation 5. Click here to claim: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on electronics. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $100/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on subscriptions. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $750/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on subscriptions. Visit http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your iPhone today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your iPhone today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free gift card. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $250. Redeem now: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $100/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on beauty products. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $250. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on electronics. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on furniture. Visit https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $100/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on beauty products. Visit http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $250. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Netflix account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Amazon account has been suspended. Verify at https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on beauty products. Visit http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 50% off on furniture. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free PlayStation 5. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $500. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 90% off on beauty products. Visit https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free vacation package! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Are we still on for lunch tomorrow?"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $750/day from home. No experience needed! http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free gift card! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $100/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "ham",
+    "message": "I'm running a bit late, be there in 10 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $250/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Earn $500/day from home. No experience needed! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on furniture. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Meeting is at 3PM, don't be late."
+  },
+  {
+    "label": "spam",
+    "message": "Earn $750/day from home. No experience needed! http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 80% off on beauty products. Visit http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $750. Redeem now: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Dear user, you have received a bonus of $1000. Redeem now: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your voucher today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Claim your gift card today! No purchase required. Details: https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Happy birthday! Hope you have a great day."
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Congratulations! You've won a free voucher. Click here to claim: https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free PlayStation 5! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! https://short.link/offer"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://promo-now.com/win"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Netflix account has been suspended. Verify at http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Can you send me the file you mentioned earlier?"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Claim your vacation package today! No purchase required. Details: http://getfreeoffer.net"
+  },
+  {
+    "label": "ham",
+    "message": "Just confirming that the appointment is for Friday at 2PM."
+  },
+  {
+    "label": "ham",
+    "message": "Don't forget to bring your ID to the exam."
+  },
+  {
+    "label": "ham",
+    "message": "Please review the attached report and send your feedback."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your Google account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "ham",
+    "message": "I'll call you back in 5 minutes."
+  },
+  {
+    "label": "spam",
+    "message": "Urgent: Your PayPal account has been suspended. Verify at http://bit.ly/claim-now"
+  },
+  {
+    "label": "spam",
+    "message": "Limited time offer! Get 70% off on electronics. Visit http://getfreeoffer.net"
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: http://promo-now.com/win"
+  },
+  {
+    "label": "spam",
+    "message": "You have been selected for a free voucher! https://short.link/offer"
+  },
+  {
+    "label": "ham",
+    "message": "Let’s meet at the coffee shop near your place."
+  },
+  {
+    "label": "spam",
+    "message": "Act now to get your exclusive deal: https://short.link/offer"
+  }
+]
